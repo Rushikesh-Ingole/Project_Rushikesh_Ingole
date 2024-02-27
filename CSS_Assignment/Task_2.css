@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.card{
+    width: 25%;
+    height: 50%;
+    background-color: #262120;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 10PX;
+}
+img{
+    width: 100%;
+}
+.s2{
+    
+    color: white;
+}
+.ic{
+    margin-bottom: 8px;
+    font-size: medium;
+}
+i{
+    color: white;
+    margin: 5px;
+}
